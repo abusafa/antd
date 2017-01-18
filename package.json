@@ -78,7 +78,7 @@
     "antd-demo-jest": "^1.0.5",
     "antd-tools": "~0.16.0",
 
-    "bisheng-plugin-antd": "~0.6.0",
+    "bisheng-plugin-antd": "~0.6.0"
   
   },
   "scripts": {
